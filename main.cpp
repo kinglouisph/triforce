@@ -334,8 +334,5 @@ int main() {
         usleep(1000000/100); //100fps
     }
 
-
-
-
     return 0;
 }
